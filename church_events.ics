@@ -68,7 +68,38 @@ DTSTART:20260516T123000
 DTEND:20260516T143000
 SUMMARY:Farewell Potluck for Izaak Brooks
 LOCATION:Church
-DESCRIPTION:Favorite foods list will be provided.
+DESCRIPTION:Special potluck farewell as Izaak begins military service. Requested favorites: Lasagna\, Spinach & Artichoke Dip\, Veggie Spring Rolls\, Chips & Salsa\, Guacamole\, Mexican Street Corn\, Tacos\, Mac & Cheese\, Brownies.
+END:VEVENT
+
+
+BEGIN:VEVENT
+UID:8
+DTSTAMP:20260509T000000Z
+DTSTART:20260513T190000
+DTEND:20260513T200000
+SUMMARY:No Mid-week Bible Study
+LOCATION:Church
+DESCRIPTION:No Bible Study on May 13. Bible Study resumes May 20. Preparation reading: Galatians chapters 4 & 5.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:9
+DTSTAMP:20260509T000000Z
+DTSTART:20260521T190000
+DTEND:20260521T200000
+SUMMARY:Church Board Meeting
+LOCATION:Church
+DESCRIPTION:
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10
+DTSTAMP:20260509T000000Z
+DTSTART:20260523T123000
+DTEND:20260523T133000
+SUMMARY:Kingdom Kidz Volunteers Meeting
+LOCATION:Church
+DESCRIPTION:Meeting for all Kingdom Kidz volunteers following services to review first session details for June 13.
 END:VEVENT
 
 END:VCALENDAR
