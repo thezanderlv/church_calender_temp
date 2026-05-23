@@ -71,35 +71,74 @@ LOCATION:Church
 DESCRIPTION:Special potluck farewell as Izaak begins military service. Requested favorites: Lasagna\, Spinach & Artichoke Dip\, Veggie Spring Rolls\, Chips & Salsa\, Guacamole\, Mexican Street Corn\, Tacos\, Mac & Cheese\, Brownies.
 END:VEVENT
 
-
 BEGIN:VEVENT
 UID:8
-DTSTAMP:20260509T000000Z
-DTSTART:20260513T190000
-DTEND:20260513T200000
-SUMMARY:No Mid-week Bible Study
-LOCATION:Church
-DESCRIPTION:No Bible Study on May 13. Bible Study resumes May 20. Preparation reading: Galatians chapters 4 & 5.
-END:VEVENT
-
-BEGIN:VEVENT
-UID:9
-DTSTAMP:20260509T000000Z
-DTSTART:20260521T190000
-DTEND:20260521T200000
-SUMMARY:Church Board Meeting
-LOCATION:Church
-DESCRIPTION:
-END:VEVENT
-
-BEGIN:VEVENT
-UID:10
-DTSTAMP:20260509T000000Z
+DTSTAMP:20260523T000000Z
 DTSTART:20260523T123000
 DTEND:20260523T133000
 SUMMARY:Kingdom Kidz Volunteers Meeting
 LOCATION:Church
-DESCRIPTION:Meeting for all Kingdom Kidz volunteers following services to review first session details for June 13.
+DESCRIPTION:Meeting for all Kingdom Kidz volunteers following services to review first session details for Kingdom Kidz on June 27.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:9
+DTSTAMP:20260523T000000Z
+DTSTART:20260531T090000
+DTEND:20260531T120000
+SUMMARY:VBS Setup
+LOCATION:Church
+DESCRIPTION:VBS setup day.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10
+DTSTAMP:20260523T000000Z
+DTSTART:20260601T000000
+DTEND:20260607T000000
+SUMMARY:Vacation Bible School (VBS)
+LOCATION:Church
+DESCRIPTION:Please continue to pray for BC parents to enroll their children, for God's blessing over children attending VBS, and for leaders, teachers, and volunteers. Register at bcadventist.org.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:11
+DTSTAMP:20260523T000000Z
+DTSTART:20260606T123000
+DTEND:20260606T140000
+SUMMARY:Potluck Fellowship (Picnic Theme)
+LOCATION:Church
+DESCRIPTION:Theme: Picnic food. Join for a special time of fellowship.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:12
+DTSTAMP:20260523T000000Z
+DTSTART:20260607T090000
+DTEND:20260607T120000
+SUMMARY:VBS Take Down
+LOCATION:Church
+DESCRIPTION:VBS take down day.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:13
+DTSTAMP:20260523T000000Z
+DTSTART:20260527T190000
+DTEND:20260527T200000
+SUMMARY:Mid-week Bible Study
+LOCATION:Church
+DESCRIPTION:Abrahamic Covenant study. Read Job chapters 1 and 2.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:14
+DTSTAMP:20260523T000000Z
+DTSTART:20260628T000000
+DTEND:20260725T000000
+SUMMARY:Camp Yavapines Youth Camp Session
+LOCATION:Camp Yavapines
+DESCRIPTION:Camp dates are June 28 to July 24. Cost is $390 per child. Church board approved covering half of the cost, reducing it to $195 per child.
 END:VEVENT
 
 END:VCALENDAR
