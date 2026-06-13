@@ -1,144 +1,231 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 CALSCALE:GREGORIAN
+PRODID:-//Boulder City SDA Church//Church Calendar//EN
 BEGIN:VEVENT
-UID:1
-DTSTAMP:20260418T165336Z
-DTSTART:20260418T134500
-DTEND:20260418T144500
-SUMMARY:Sunshine Singers at Lakeview Terrace
-LOCATION:Lakeview Terrace
-DESCRIPTION:
+UID:20260613-sabbath-school@bcadventist.org
+DTSTAMP:20260613T000000Z
+DTSTART:20260613T093000
+DTEND:20260613T104500
+SUMMARY:Sabbath School - Lesson 11: Setbacks
+LOCATION:Boulder City Seventh-day Adventist Church
+DESCRIPTION:Instructor: Vivian Allen.
 END:VEVENT
 
 BEGIN:VEVENT
-UID:2
-DTSTAMP:20260418T165336Z
-DTSTART:20260418T180000
-DTEND:20260418T210000
-SUMMARY:Outdoor Game Night
-LOCATION:Silver Springs Park, Henderson
-DESCRIPTION:
+UID:20260613-worship-service@bcadventist.org
+DTSTAMP:20260613T000000Z
+DTSTART:20260613T110000
+DTEND:20260613T123000
+SUMMARY:Worship Service - Yahweh Nissi: His Battle
+LOCATION:Boulder City Seventh-day Adventist Church
+DESCRIPTION:Welcome & Announcements: Stephanie & Eric. Song Leader: Phoebe Mitchell. Pianist: Vickie Massie. Hymns: Page 499 - What a Friend We Have in Jesus\, Page 216 - When the Roll Is Called Up Yonder. Offering Recipient: Women's Ministries (NAD). Special Music: Shellac\, Kneagh\, Bebielyn. Sermon by Pastor Rodolfo.
 END:VEVENT
 
 BEGIN:VEVENT
-UID:3
-DTSTAMP:20260418T165336Z
-DTSTART:20260425T093000
-DTEND:20260425T110000
-SUMMARY:Outdoor Church
-LOCATION:Hemenway Park
-DESCRIPTION:Bring a chair and your lunch. No pets allowed.
+UID:20260604-vickie-massie-birthday@bcadventist.org
+DTSTAMP:20260613T000000Z
+DTSTART;VALUE=DATE:20260604
+DTEND;VALUE=DATE:20260605
+SUMMARY:Birthday - Vickie Massie
+DESCRIPTION:Happy June birthday!
 END:VEVENT
 
 BEGIN:VEVENT
-UID:4
-DTSTAMP:20260418T165336Z
-DTSTART:20260501T190000
-DTEND:20260501T210000
-SUMMARY:Consecration Weekend - Friday
-LOCATION:Church
-DESCRIPTION:Speaker: Pastor Rudy Salazar
+UID:20260607-lois-luna-birthday@bcadventist.org
+DTSTAMP:20260613T000000Z
+DTSTART;VALUE=DATE:20260607
+DTEND;VALUE=DATE:20260608
+SUMMARY:Birthday - Lois Luna
+DESCRIPTION:Happy June birthday!
 END:VEVENT
 
 BEGIN:VEVENT
-UID:5
-DTSTAMP:20260418T165336Z
-DTSTART:20260502T110000
-DTEND:20260502T123000
-SUMMARY:Consecration Weekend - Sabbath
-LOCATION:Church
-DESCRIPTION:Speaker: Pastor Rudy Salazar
+UID:20260607-john-luke-luna-birthday@bcadventist.org
+DTSTAMP:20260613T000000Z
+DTSTART;VALUE=DATE:20260607
+DTEND;VALUE=DATE:20260608
+SUMMARY:Birthday - John Luke Luna
+DESCRIPTION:Happy June birthday!
 END:VEVENT
 
 BEGIN:VEVENT
-UID:6
-DTSTAMP:20260418T165336Z
-DTSTART:20260502T123000
-DTEND:20260502T140000
-SUMMARY:Fellowship Potluck
-LOCATION:Church
-DESCRIPTION:
+UID:20260607-brad-isaacs-birthday@bcadventist.org
+DTSTAMP:20260613T000000Z
+DTSTART;VALUE=DATE:20260607
+DTEND;VALUE=DATE:20260608
+SUMMARY:Birthday - Brad Isaacs
+DESCRIPTION:Happy June birthday!
 END:VEVENT
 
 BEGIN:VEVENT
-UID:7
-DTSTAMP:20260418T165336Z
-DTSTART:20260516T123000
-DTEND:20260516T143000
-SUMMARY:Farewell Potluck for Izaak Brooks
-LOCATION:Church
-DESCRIPTION:Special potluck farewell as Izaak begins military service. Requested favorites: Lasagna\, Spinach & Artichoke Dip\, Veggie Spring Rolls\, Chips & Salsa\, Guacamole\, Mexican Street Corn\, Tacos\, Mac & Cheese\, Brownies.
+UID:20260612-leida-herrera-birthday@bcadventist.org
+DTSTAMP:20260613T000000Z
+DTSTART;VALUE=DATE:20260612
+DTEND;VALUE=DATE:20260613
+SUMMARY:Birthday - Leida Herrera
+DESCRIPTION:Happy June birthday!
 END:VEVENT
 
 BEGIN:VEVENT
-UID:8
-DTSTAMP:20260523T000000Z
-DTSTART:20260523T123000
-DTEND:20260523T133000
-SUMMARY:Kingdom Kidz Volunteers Meeting
-LOCATION:Church
-DESCRIPTION:Meeting for all Kingdom Kidz volunteers following services to review first session details for Kingdom Kidz on June 27.
+UID:20260613-savannah-romero-birthday@bcadventist.org
+DTSTAMP:20260613T000000Z
+DTSTART;VALUE=DATE:20260613
+DTEND;VALUE=DATE:20260614
+SUMMARY:Birthday - Savannah Romero
+DESCRIPTION:Happy June birthday!
 END:VEVENT
 
 BEGIN:VEVENT
-UID:9
-DTSTAMP:20260523T000000Z
-DTSTART:20260531T090000
-DTEND:20260531T120000
-SUMMARY:VBS Setup
-LOCATION:Church
-DESCRIPTION:VBS setup day.
+UID:20260614-stephanie-costantino-birthday@bcadventist.org
+DTSTAMP:20260613T000000Z
+DTSTART;VALUE=DATE:20260614
+DTEND;VALUE=DATE:20260615
+SUMMARY:Birthday - Stephanie Costantino
+DESCRIPTION:Happy June birthday!
 END:VEVENT
 
 BEGIN:VEVENT
-UID:10
-DTSTAMP:20260523T000000Z
-DTSTART:20260601T000000
-DTEND:20260607T000000
-SUMMARY:Vacation Bible School (VBS)
-LOCATION:Church
-DESCRIPTION:Please continue to pray for BC parents to enroll their children, for God's blessing over children attending VBS, and for leaders, teachers, and volunteers. Register at bcadventist.org.
+UID:20260615-margie-miller-birthday@bcadventist.org
+DTSTAMP:20260613T000000Z
+DTSTART;VALUE=DATE:20260615
+DTEND;VALUE=DATE:20260616
+SUMMARY:Birthday - Margie Miller
+DESCRIPTION:Happy June birthday!
 END:VEVENT
 
 BEGIN:VEVENT
-UID:11
-DTSTAMP:20260523T000000Z
-DTSTART:20260606T123000
-DTEND:20260606T140000
-SUMMARY:Potluck Fellowship (Picnic Theme)
-LOCATION:Church
-DESCRIPTION:Theme: Picnic food. Join for a special time of fellowship.
+UID:20260619-john-johnson-birthday@bcadventist.org
+DTSTAMP:20260613T000000Z
+DTSTART;VALUE=DATE:20260619
+DTEND;VALUE=DATE:20260620
+SUMMARY:Birthday - John Johnson
+DESCRIPTION:Happy June birthday!
 END:VEVENT
 
 BEGIN:VEVENT
-UID:12
-DTSTAMP:20260523T000000Z
-DTSTART:20260607T090000
-DTEND:20260607T120000
-SUMMARY:VBS Take Down
-LOCATION:Church
-DESCRIPTION:VBS take down day.
+UID:20260624-crystal-fredrickson-birthday@bcadventist.org
+DTSTAMP:20260613T000000Z
+DTSTART;VALUE=DATE:20260624
+DTEND;VALUE=DATE:20260625
+SUMMARY:Birthday - Crystal Fredrickson
+DESCRIPTION:Happy June birthday!
 END:VEVENT
 
 BEGIN:VEVENT
-UID:13
-DTSTAMP:20260523T000000Z
-DTSTART:20260527T190000
-DTEND:20260527T200000
-SUMMARY:Mid-week Bible Study
-LOCATION:Church
-DESCRIPTION:Abrahamic Covenant study. Read Job chapters 1 and 2.
+UID:20260624-erika-paredes-birthday@bcadventist.org
+DTSTAMP:20260613T000000Z
+DTSTART;VALUE=DATE:20260624
+DTEND;VALUE=DATE:20260625
+SUMMARY:Birthday - Erika Paredes
+DESCRIPTION:Happy June birthday!
 END:VEVENT
 
 BEGIN:VEVENT
-UID:14
-DTSTAMP:20260523T000000Z
-DTSTART:20260628T000000
-DTEND:20260725T000000
-SUMMARY:Camp Yavapines Youth Camp Session
+UID:20260626-rolando-medrano-birthday@bcadventist.org
+DTSTAMP:20260613T000000Z
+DTSTART;VALUE=DATE:20260626
+DTEND;VALUE=DATE:20260627
+SUMMARY:Birthday - Rolando Medrano
+DESCRIPTION:Happy June birthday!
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260627-addie-armstrong-birthday@bcadventist.org
+DTSTAMP:20260613T000000Z
+DTSTART;VALUE=DATE:20260627
+DTEND;VALUE=DATE:20260628
+SUMMARY:Birthday - Addie Armstrong
+DESCRIPTION:Happy June birthday!
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260628-denise-traster-birthday@bcadventist.org
+DTSTAMP:20260613T000000Z
+DTSTART;VALUE=DATE:20260628
+DTEND;VALUE=DATE:20260629
+SUMMARY:Birthday - Denise Traster
+DESCRIPTION:Happy June birthday!
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260617-midweek-bible-study@bcadventist.org
+DTSTAMP:20260613T000000Z
+DTSTART:20260617T190000
+DTEND:20260617T200000
+SUMMARY:Midweek Bible Study - Job 5-7
+LOCATION:Boulder City Seventh-day Adventist Church
+DESCRIPTION:Please read ahead: Job 5-7.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260620-sabbath-school@bcadventist.org
+DTSTAMP:20260613T000000Z
+DTSTART:20260620T093000
+DTEND:20260620T104500
+SUMMARY:Sabbath School Class
+LOCATION:Boulder City Seventh-day Adventist Church
+DESCRIPTION:Adult Class Instructor: Ken Shultz.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260620-worship-service@bcadventist.org
+DTSTAMP:20260613T000000Z
+DTSTART:20260620T110000
+DTEND:20260620T123000
+SUMMARY:Worship Service - Yahweh Nissi: Mighty to Save
+LOCATION:Boulder City Seventh-day Adventist Church
+DESCRIPTION:Welcome & Announcements: Stephanie & Eric. Song Leader: Alissa Brooks. Offering Recipient: Local Church Budget. Sermon by Pastor Rodolfo.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260620-potluck@bcadventist.org
+DTSTAMP:20260613T000000Z
+DTSTART:20260620T123000
+DTEND:20260620T140000
+SUMMARY:Potluck
+LOCATION:Boulder City Seventh-day Adventist Church
+DESCRIPTION:Church potluck following worship service.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260627-kingdom-kidz-breakfast@bcadventist.org
+DTSTAMP:20260613T000000Z
+DTSTART:20260627T093000
+DTEND:20260627T103000
+SUMMARY:Kingdom Kidz Breakfast
+LOCATION:Boulder City Seventh-day Adventist Church
+DESCRIPTION:Kingdom Kidz breakfast starting at 9:30 AM.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260627-girlfriends-in-god@bcadventist.org
+DTSTAMP:20260613T000000Z
+DTSTART:20260627T123000
+DTEND:20260627T140000
+SUMMARY:Girlfriends in God - First Session
+LOCATION:Home of Kristen Tompkins
+DESCRIPTION:Teen ministry for girls ages 13 through the end of high school. Meeting following church. See Kristen Tompkins\, Angella Luna\, or Brenda Swanson for questions/details.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260628-camp-yavapines-youth-camp@bcadventist.org
+DTSTAMP:20260613T000000Z
+DTSTART;VALUE=DATE:20260628
+DTEND;VALUE=DATE:20260725
+SUMMARY:Camp Yavapines Youth Camp
 LOCATION:Camp Yavapines
-DESCRIPTION:Camp dates are June 28 to July 24. Cost is $390 per child. Church board approved covering half of the cost, reducing it to $195 per child.
+DESCRIPTION:Dates range from June 28 to July 24. Cost is $390 per child. BC SDA Church approved covering half of the cost\, reducing it to $195 per child. More information is coming soon.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260801-marriage-engaged-couples-small-group@bcadventist.org
+DTSTAMP:20260613T000000Z
+DTSTART;VALUE=DATE:20260801
+DTEND;VALUE=DATE:20260802
+SUMMARY:Marriage & Engaged Couples Small Group Begins
+LOCATION:Boulder City Seventh-day Adventist Church
+DESCRIPTION:Starting this August. Couples interested in joining are encouraged to sign up early so materials can be ordered. Please contact Pastor Rodolfo if interested. More details coming soon.
 END:VEVENT
 
 END:VCALENDAR
